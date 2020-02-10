@@ -20,11 +20,14 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 
-Third party licenses
+Third-party licenses:
 
 GLFW: zlib License https://github.com/glfw/glfw/blob/master/LICENSE.md
+
 glad: MIT License https://github.com/Dav1dde/glad https://github.com/dav1dde/glad-web
+
 imgui: MIT License https://github.com/ocornut/imgui
+
 tinyexr: 3-Clause BSD license https://github.com/syoyo/tinyexr
 
 Most of the intersection algorithms comes from Game Physics Cookbook 
