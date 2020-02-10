@@ -4,6 +4,8 @@ GPU Texture Baking Tool
 
 A fast and simple tool to bake your high-poly mesh details to textures.
 
+# ![fornos_screenshot](fornos.JPG)
+
 ## Bakers
 
 - [Height](#height-baker)
